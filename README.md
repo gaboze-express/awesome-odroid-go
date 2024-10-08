@@ -89,9 +89,9 @@ Also includes **In Game Menu**
 
 ### Official Resources
 - [Official Wiki](https://wiki.odroid.com/odroid_go/odroid_go)
-- [ODROID-GO by Hardkernal Forum](https://forum.odroid.com/viewforum.php?f=157)
+- [ODROID-GO by Hardkernel Forum](https://forum.odroid.com/viewforum.php?f=157)
 - [Github](https://github.com/hardkernel/ODROID-GO)
-- [Official Hardkernal Website](https://www.hardkernel.com)
+- [Official Hardkernel Website](https://www.hardkernel.com)
 
 ### Guides & Tools
 - [Assembly](https://wiki.odroid.com/odroid_go/go_assembling)
@@ -100,15 +100,12 @@ Also includes **In Game Menu**
 - [Extracting esp32 image with esp32img tool](https://wiki.odroid.com/odroid_go/extract_esp32_img)
 - [Hardware tunning for silent the sound volume](https://wiki.odroid.com/odroid_go/silent_volume)
 - [Writing Applications](https://wiki.odroid.com/odroid_go/write_app)
+- [Odroid-Go-Multi-Firmware](https://github.com/ducalex/odroid-go-multi-firmware) - orchestrate multiple skteches without reflashing
 
 ### Projects
 
 #### Hardware
-> A List of Odroid-Go / ESP32 Hardware Projects
-
 - [ESP32 Miscellany](https://github.com/sparkfun/ESP32_Miscellany)
-- [Gaboze Express ](https://github.com/gaboze-express/GabozeExpress/tree/Hardware)
-  An ESP32 Wrover based Game Boy Pocket from the Makers of [Gaboze Pocaio](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/) this is an Odroid Go with a 2.6" 320 x 240 display, and drop in form factor of the Nintendo Game Boy Pocket, currently in final testing stages, contributors welcome
 
 #### Arduino
 - [Getting Started with Arduino](https://wiki.odroid.com/odroid_go/arduino/01_arduino_setup)
